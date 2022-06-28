@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1588444728 source:d:\project pl\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1588795208 source:d:\project pl\awl mo7awla\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590252747 source:d:\projects\project pl\project ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590334825 source:d:\projects\project pl\project iii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590409494 source:d:\projects\project pl\project iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
